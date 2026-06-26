@@ -38,6 +38,7 @@ Each category features hand-picked HTML5 games optimized for smooth performance 
 
 Here are a few notable games you can try:
 
+- [Meccha Chameleon](https://mecchachameleon.art/) - Browser-playable hide-and-seek camo game with painting, map routes, and new-player helpers.
 - [Stickman Archer](https://gamh5.com/category/bubble-shooter/)
 - [2048 Merge](https://gamh5.com/category/merge/)
 - [Endless Car Race](https://gamh5.com/category/racing/)
