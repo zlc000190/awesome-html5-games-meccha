@@ -64,3 +64,7 @@ This list is open source and maintained by the community.
 - [babylonjs/babylon.js](https://github.com/BabylonJS/Babylon.js) ¨C Powerful 3D game engine for HTML5 and WebGL.
 
 > The games listed above were built using or inspired by these awesome tools.
+
+## Companion Resources (Fan-Maintained)
+
+- [Meccha Chameleon Atlas](https://mecchachameleon.art/) — Fan-maintained hide-spots reference, paint-match notes, and seeker counter-tips for the paint-based hide-and-seek title Meccha Chameleon. Unofficial, not affiliated with the developer.
